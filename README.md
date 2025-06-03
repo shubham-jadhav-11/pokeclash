@@ -1,16 +1,29 @@
-# pokeclash
+# 📱 PokeClash
+A Pokémon card battles app built with Flutter.
 
-A new Flutter project.
+# ⚡️ About
+PokeClash is a mobile app where players collect, trade, and battle Pokémon cards in head-to-head matches. Strategize, power up your deck, and become the ultimate Pokémon card master!
 
-## Getting Started
+# 🚀 Getting Started
+This project is a starting point for a Flutter-based Pokémon card battle app.
 
-This project is a starting point for a Flutter application.
+To run the project locally:
 
-A few resources to get you started if this is your first Flutter project:
+flutter pub get
+flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# 📚 Resources
+If you’re new to Flutter or want to sharpen your skills:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Write your first Flutter app
+Flutter Cookbook
+Official Flutter Documentation
+
+# 🎮 Features Coming Soon
+🔥 Card battles with AI and friends
+
+🎴 Collect and upgrade Pokémon cards
+
+🏆 Battle leaderboard
+
+🎨 Custom card designs and animations
